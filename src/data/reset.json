@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "satellite-dish",
+    "title": "Modern Communication Systems",
+    "desc": "Developing advanced communication technologies for reliable and high-capacity information transfer."
+  },
+  {
+    "icon": "search",
+    "title": "Sensing and Detection Systems",
+    "desc": "Designing wave-based sensing and detection solutions for security, environment, and industrial applications."
+  },
+  {
+    "icon": "camera",
+    "title": "Imaging and Precision Measurement Systems",
+    "desc": "Enhancing imaging and measurement accuracy using RF, microwave, acoustic, and photonic techniques."
+  },
+  {
+    "icon": "heartbeat",
+    "title": "Medical Wave-Based Technologies",
+    "desc": "Applying RF, microwave, acoustic, and photonic methods to advance diagnostics and therapeutic healthcare solutions."
+  },
+  {
+    "icon": "broadcast-tower",
+    "title": "Radar and Integrated Photonic Systems",
+    "desc": "Developing radar and photonic-based systems for defense, monitoring, and communication."
+  },
+  {
+    "icon": "industry",
+    "title": "Industrial and Environmental Acoustic Applications",
+    "desc": "Utilizing acoustic technologies for industrial monitoring, environmental sensing, and noise control."
+  }
+]

@@ -1,0 +1,102 @@
+{
+  "member": {
+    "Researcher": [
+      {
+        "name": "Hana Arisesa, ST., M.Eng.",
+        "role": "Microwave, Terahertz, Modelling, Visualization",
+        "img": "/memberImage/Hana_Arisesa.png",
+        "scholar": "https://scholar.google.com/citations?user=mv8tE7UAAAAJ&hl=en&oi=ao"
+      },
+      {
+        "name": "Ashif Aminulloh Fathnan, PhD",
+        "role": "Metamaterials, Metasurface, Electromagnetics, Antennas and Propagation, Wireless Communication",
+        "img": "/memberImage/Ashif_Aminulloh_Fathnan.png",
+        "scholar": "https://scholar.google.com/citations?hl=id&user=QbmrJHMAAAAJ"
+      },
+      {
+        "name": "Fadil Habibi Danufane, PhD",
+        "role": "Wireless Communication, RIS, Stochastic Geometry",
+        "img": "/memberImage/Fadil_Habibi_Danufane.png",
+        "scholar": "https://scholar.google.com/citations?user=pKjwQVwAAAAJ&hl=en"
+      },
+      {
+        "name": "Prof. Yusuf Nur Wijayanto, PhD",
+        "role": "Electrical-Optical, Microwave-Photonic, Communication, Sensing",
+        "img": "/memberImage/yusuf.png",
+        "scholar": "https://scholar.google.com/citations?user=tZvIlOAAAAAJ&hl=pl"
+      },
+      {
+        "name": "Ir. Pamungkas Daud, MT.",
+        "role": "RF, Microwave, Optic & Photonic Telecommunication",
+        "img": "/memberImage/Pamungkas_Daud.png",
+        "scholar": "https://scholar.google.com/citations?user=s2pEVcEAAAAJ&hl=id"
+      },
+      {
+        "name": "Deni Permana Kurniadi, MT (on leave for PhD, Unpad)",
+        "role": "Electro & Electronica",
+        "img": "/memberImage/Deni_Permana_Kurniadi.png",
+        "scholar": "https://scholar.google.com/citations?hl=id&user=8X3gRH4AAAAJ"
+      },
+      {
+        "name": "Sulistyaningsih, M.Eng. (on leave for PhD, ITB)",
+        "role": "RF, Microwave",
+        "img": "/memberImage/Sulistyaningsih.png",
+        "scholar": "https://scholar.google.com/citations?hl=id&user=LIgABq0AAAAJ"
+      },
+      {
+        "name": "Eko Joni Pristianto, MT (on leave for PhD, Unpad)",
+        "role": "Electronic Systems, Control System, Embedded System, Microcontroller, Instrumentation",
+        "img": "/memberImage/Eko_Joni_Pristianto.png",
+        "scholar": "https://scholar.google.com/citations?hl=id&user=uYZ5l34AAAAJ"
+      },
+      {
+        "name": "Taufiqqurrachman, ST., M.Sc. (on leave for PhD, UTM Malaysia)",
+        "role": "RF and Microwave",
+        "img": "/memberImage/Taufiqqurrachman.png",
+        "scholar": "https://scholar.google.com/citations?hl=id&user=HcKHrRUAAAAJ"
+      },
+      {
+        "name": "Fajri Darwis, ST., M.Eng.",
+        "role": "Microwave, RF, Telecommunication",
+        "img": "/memberImage/Fajri_Darwis.png",
+        "scholar": "https://scholar.google.com/citations?hl=id&user=LDrm9pQAAAAJ"
+      },
+      {
+        "name": "Winy Desvasari, MT.",
+        "role": "Telecommunication, Wireless Communication",
+        "img": "/memberImage/Winy_Desvasari.png",
+        "scholar": "https://scholar.google.com/citations?hl=id&user=HAL77qMAAAAJ"
+      },
+      {
+        "name": "R. Priyo Hartono Adji, MT",
+        "role": "RF Device, Metasurfaces, Computer System and Control, Semiconductor Technology",
+        "img": "/memberImage/Priyo_Hartono_Adji.png",
+        "scholar": "https://scholar.google.com/citations?user=C8vdLFoAAAAJ&hl=en&oi=ao"
+      },
+      {
+        "name": "Arief Nur Rahman, S.Si, MT",
+        "role": "Electronics",
+        "img": "/memberImage/Arief_Nur_Rahman.png",
+        "scholar": "https://scholar.google.com/citations?user=cclHMZUAAAAJ&hl=en&authuser=1"
+      },
+      {
+        "name": "Dadin Mahmudin, ST, M.Eng",
+        "role": "Nanophotonic Devices, Metasurface, Optical Sensor, Optical Communication, RF",
+        "img": "/memberImage/Dadin_Mahmudin.png",
+        "scholar": "https://scholar.google.com/citations?user=bFYep7UAAAAJ&hl=id"
+      },
+      {
+        "name": "Dr. Arie Setiawan",
+        "role": "Telecommunication, RF Technology",
+        "img": "/memberImage/arie_setiawan.png",
+        "scholar": "https://scholar.google.com/citations?user=QCOOECsAAAAJ&hl=id"
+      },
+      {
+        "name": "Prasetyo Putranto, MSc (on leave for PhD, France)",
+        "role": "Telecommunication, Wireless Communication, Electromagnetic Wave, Radar",
+        "img": "/memberImage/Prasetyo_Putranto.png",
+        "scholar": "https://scholar.google.co.id/citations?user=cLTL7ywAAAAJ"
+      }
+    ]
+  }
+}
